@@ -1,6 +1,10 @@
 {
   "name": "@redux-offline/redux-offline",
+<<<<<<< HEAD
   "version": "2.5.2-native.3",
+=======
+  "version": "2.6.0",
+>>>>>>> 32e0ca2... Configure auto-discard on retry count exceeded
   "description": "Redux Offline-First Architecture",
   "main": "lib/index.js",
   "types": "./typings.d.ts",
