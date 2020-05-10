@@ -2,7 +2,7 @@
   "name": "@redux-offline/redux-offline",
   "version": "2.6.0-native.0",
   "description": "Redux Offline-First Architecture",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "types": "./typings.d.ts",
   "scripts": {
     "build": "rm -rf lib && babel src --out-dir lib --ignore '**/__tests__/**'",
