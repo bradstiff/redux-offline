@@ -21,6 +21,7 @@
     * [defaultRollback](api/config.md#defaultrollback)
     * [detectNetwork](api/config.md#detectnetwork)
     * [discard](api/config.md#discard)
+    * [discardOnRetryCountExceeded](api/config.md#discardOnRetryCountExceeded)
     * [effect](api/config.md#effect)
     * [offlineStateLens](api/config.md#offlinestatelens)
     * [persist](api/config.md#persist)
